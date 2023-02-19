@@ -1,0 +1,28 @@
+.homepage-back{
+    background-color: purple;
+}
+
+li{
+    color: black;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.avocado-back{
+    background-color: green;
+}
+
+.butter-back{
+    background-color: yellow;
+}
+
+.hong-back{
+    background-color: orange;
+}
+
+img{
+    position: relative;
+    left: 30%;
+    height: auto;
+    width: 500px;
+}
